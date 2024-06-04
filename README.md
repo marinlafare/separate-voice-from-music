@@ -16,7 +16,15 @@ You can use spleeter-gpu if you can and want, but it's not necessary, it's obvio
 
 ``` conda install -c conda-forge spleeter-gpu ```
 
-You can test the process and installation by going step by step trought the pipeline in the notebook: test_app.ipynb:
+Next you'll need to create two folder, one called audio_files and other called data:
+
+![alt text](image-2.png)
+
+Inside data you'll need to create three more called: music, temp and voices:
+
+![alt text](image-3.png)
+
+Then you can test the process and installation by going step by step trought the pipeline in the notebook: test_app.ipynb:
 
 ![alt text](image-1.png)
 
