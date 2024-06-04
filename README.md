@@ -1,7 +1,7 @@
 # Separate-voice-from-music
 
 This algorithm uses the module [spleeter](https://github.com/deezer/spleeter).
-Some times installing it it's a pain.
+Some times installing it is a pain, not as much as installing tensorflow, but close.
 So here it is a robust step by step installation:
 
 You need a fresh new anaconda env with just python 3.7:
