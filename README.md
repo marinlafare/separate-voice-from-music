@@ -18,7 +18,7 @@ You can use spleeter-gpu if you can and want, but it's not necessary, it's obvio
 
 You can test the process and installation by going step by step trought the pipeline in the notebook: test_app.ipynb:
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 Lastly: first time you run it spleeter is going to download a pretrain model, don't get scared.
 
